@@ -1,10 +1,9 @@
 ### Hi there 👋, my name is Jennifer
-#### I am entering the tech field from a background in healthcare
+#### I am taking part in the Microsoft Leap Software Development Apprenticeship Program
 
-Skills: PYTHON / R / MYSQL / JS / HTML / CSS
+Skills: PYTHON / C# / MYSQL / JS / TS / HTML / CSS
 
-- 🔭 I’m currently working on building full-stack web apps with login and validation
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C# and improving my object-oriented programming skills
 - 📫 How to reach me: https://www.linkedin.com/in/jenniferstewartdpt/ 
 
 <!---
