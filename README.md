@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Jennifer
-#### I am taking part in the Microsoft Leap Software Development Apprenticeship Program
+#### I completed the Microsoft Leap program as a software developer at GitHub 
 
-Skills: PYTHON / C# / MYSQL / JS / TS / HTML / CSS
+Skills: PYTHON / C# / RUBY / MYSQL / JS / HTML / CSS
 
-- 🌱 I’m currently learning C# and improving my object-oriented programming skills
+- 🌱 I'm looking for a new software development position
 - 📫 How to reach me: https://www.linkedin.com/in/jenniferstewartdpt/ 
 
 <!---
